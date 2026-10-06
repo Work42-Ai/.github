@@ -5,7 +5,7 @@
 <h1 align="center">Work42</h1>
 
 <p align="center">
-  An agent-native workspace for turning conversations into durable work.
+  An agent-native workspace for getting s*** done
 </p>
 
 Work42 is a native macOS workspace where agents and people collaborate through
